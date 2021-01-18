@@ -4,6 +4,14 @@ A canvas animation in React with configurable shapes and speeds.
 
 ### Version: 1.0.0
 
+---
+
+### 🌟 Codepen Example
+
+- [Shape animation](https://codepen.io/tobywilson1/pen/OJRwdgx)
+
+---
+
 ### ⚙ Installation & Running
 
 ```sh
@@ -13,6 +21,8 @@ $ npm install
 ```sh
 $ npm start
 ```
+
+---
 
 ### 🤔 How to use it?
 
